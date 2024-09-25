@@ -112,6 +112,5 @@ a:hover {
     text-decoration: underline;
 }
     </style>
-    
-</body>
+    </body>
 </html>
